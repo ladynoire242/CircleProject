@@ -6,6 +6,7 @@ This Project needs the IntelliJ Idea application.
 From the following website download IntelliJ application: https://www.jetbrains.com/idea/download/?section=windows
 Then, in your file manager open the ideaIU-2023.3.6 file to setup the Integrated Develop Environment(IDE).
 
+
 Step 2:
 
 A pop-up should appear asking if you want this app to make changes to your device, click yes.
@@ -14,10 +15,12 @@ In the Installation Options, under' Create a Desktop Shortcut' click 'IntelliJ I
 and click 'Next'. Then, click 'Install'.
 
 
+
 Step 3:
 
 In the github Circle project go to Knowles_Lab3 > src > Main.java.
 Download the Main.java file.
+
 
 
 Step 4:
@@ -27,12 +30,14 @@ Name it ‘Circle’, and  for the location place it wherever you prefer.
 Then, click ‘Create’.
 
 
+
 Step 5:
 
 On your left-hand side you should see the folder ‘src’ in the file path Circle > src. 
 Now, in your file manager go to where you downloaded the ‘Main.java’ file, then drag that file into the src folder. 
 Then, click the arrow to the left of the src folder to ensure that you placed the file in the correct place. 
 Then, double-click the ‘Main’ class.
+
 
 
 Step 6:
@@ -45,6 +50,7 @@ Ensure that the ‘Type’ is SDK when you click ‘Download’.
 Unzip or extract the folder that begins with ‘openjfx-22…’.
 
 
+
 Step 7:
 
 Then, go to File > Project Structure.
@@ -53,6 +59,7 @@ Then in the second column click the plus symbol, then click ‘Java’.
 Then go to your downloads and in the extracted folder that begins with ‘openjfx-22…’ 
 go to the following path: javafx-sdk-22 > lib. Select the ‘lib’ folder and click ‘OK’ twice. 
 Then, click ‘Apply’ and then click ‘OK’.
+
 
 
 Step 8:
@@ -82,10 +89,12 @@ javafx.controls,javafx.fxml
 Click ‘Apply’, then ‘OK’.
 
 
+
 Step 9:
 
 Then, to run ensure that ‘JavaFX’, or the name you chose for the Application is next to the run button, 
 that looks like a sideways triangle. Then, click the run button.
+
 
 
 Step 10:
