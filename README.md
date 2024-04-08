@@ -71,7 +71,7 @@ Under ‘Build and run’, in the textbox where it says ‘VM options’, copy a
 javafx.controls,javafx.fxml
 
 Go to where you downloaded and extracted the folder that begins with ‘openjfx-22…’ and go to file path javafx-sdk-22 > lib. 
-Then, copy the entire file path and replace ‘YOUR SDK LIB Location’ with your file path and ensure that your file path has double quotes. 
+Then, copy the entire file path and replace "YOUR SDK LIB Location" with your file path and ensure that your file path has double quotes. 
 An example is below:
 
 --module-path
